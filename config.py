@@ -1,0 +1,6 @@
+dev = "/dev/ttyUSB0"
+ipv6 = "FE80:XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXXX"
+channel = "XX"
+panId = "XXXX"
+bpass = "XXXXXXXXXXXX"
+bid = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
